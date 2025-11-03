@@ -107,3 +107,6 @@ test_*_function.py
 test_export_simple.py
 test_wkhtmltopdf.py
 COMMIT_SUMMARY.md
+
+
+./stock_data
